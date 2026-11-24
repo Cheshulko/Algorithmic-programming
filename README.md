@@ -2,7 +2,7 @@
 
 Solutions to competitive programming problems, grouped by platform and difficulty.
 
-- [LeetCode](#leetcode) — 1131
+- [LeetCode](#leetcode) — 1132
 - [Codeforces](#codeforces) — 286
 - [AtCoder](#atcoder) — 73
 - [Codingame](#codingame) — 18
@@ -16,7 +16,7 @@ Solutions to competitive programming problems, grouped by platform and difficult
 ## LeetCode
 
 <details>
-<summary><b>Easy</b> (316)</summary>
+<summary><b>Easy</b> (317)</summary>
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -303,6 +303,7 @@ Solutions to competitive programming problems, grouped by platform and difficult
 | 3379 | [Transformed Array](https://leetcode.com/problems/transformed-array) | [Rust](Leetcode/TransformedArray.rs) |
 | 3392 | [Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition) | [C](Leetcode/CountSubarraysofLengthThreeWithaCondition.c) |
 | 3396 | [Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct) | [C](Leetcode/MinimumNumberofOperationstoMakeElementsinArrayDistinct.c) |
+| 3411 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products) | [Rust](Leetcode/MaximumSubarrayWithEqualProducts.rs) |
 | 3423 | [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array) | [C](Leetcode/MaximumDifferenceBetweenAdjacentElementsinaCircularArray.c) |
 | 3432 | [Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference) | [Rust](Leetcode/CountPartitionswithEvenSumDifference.rs) |
 | 3438 | [Find Valid Pair of Adjacent Digits in String](https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string) | [Rust](Leetcode/BiweeklyContest149/FindValidPairofAdjacentDigitsinString.rs) |
