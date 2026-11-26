@@ -2,7 +2,7 @@
 
 Solutions to competitive programming problems, grouped by platform and difficulty.
 
-- [LeetCode](#leetcode) — 1132
+- [LeetCode](#leetcode) — 1133
 - [Codeforces](#codeforces) — 286
 - [AtCoder](#atcoder) — 73
 - [Codingame](#codingame) — 18
@@ -16,7 +16,7 @@ Solutions to competitive programming problems, grouped by platform and difficult
 ## LeetCode
 
 <details>
-<summary><b>Easy</b> (317)</summary>
+<summary><b>Easy</b> (318)</summary>
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -297,6 +297,7 @@ Solutions to competitive programming problems, grouped by platform and difficult
 | 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i) | [Rust](Leetcode/SmallestDivisibleDigitProductI.rs) |
 | 3349 | [Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i) | [Rust](Leetcode/AdjacentIncreasingSubarraysDetectionI.rs) |
 | 3354 | [Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero) | [Rust](Leetcode/MakeArrayElementsEqualtoZero.rs) |
+| 3360 | [Stone Removal Game](https://leetcode.com/problems/stone-removal-game) | [Rust](Leetcode/StoneRemovalGame.rs) |
 | 3364 | [Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray) | [Rust](Leetcode/MinimumPositiveSumSubarray.rs) |
 | 3370 | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits) | [Rust](Leetcode/SmallestNumberWithAllSetBits.rs) |
 | 3375 | [Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k) | [C](Leetcode/MinimumOperationstoMakeArrayValuesEqualtoK.c) |
