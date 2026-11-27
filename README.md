@@ -2,7 +2,7 @@
 
 Solutions to competitive programming problems, grouped by platform and difficulty.
 
-- [LeetCode](#leetcode) — 1133
+- [LeetCode](#leetcode) — 1134
 - [Codeforces](#codeforces) — 286
 - [AtCoder](#atcoder) — 73
 - [Codingame](#codingame) — 18
@@ -342,7 +342,7 @@ Solutions to competitive programming problems, grouped by platform and difficult
 </details>
 
 <details>
-<summary><b>Medium</b> (645)</summary>
+<summary><b>Medium</b> (646)</summary>
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -990,6 +990,7 @@ Solutions to competitive programming problems, grouped by platform and difficult
 | 3882 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid) | [Rust](Leetcode/MinimumXORPathinaGrid.rs) |
 | 3904 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii) | [Rust](Leetcode/SmallestStableIndexII.rs) |
 | 3942 | [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation) | [Rust](Leetcode/MinimumOperationstoSortaPermutation.rs) |
+| 3946 | [Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i) | [Rust](Leetcode/MaximumNumberofItemsFromSaleI.rs) |
 | 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters) | [Rust](Leetcode/ShortestPathWithAtMostKConsecutiveIdenticalCharacters.rs) |
 
 </details>
